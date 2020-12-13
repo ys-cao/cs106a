@@ -3,7 +3,7 @@ This repository contains my solutions for <a href="https://see.stanford.edu/Cour
 
 Please feel free to browser the code and leave a **star** if you find this helpful!
 
-# <h2>Table of Contents</h2>
+## Table of Contents
 
 - [Section Assignments](/SectionAssignments)
   - [Assignment 1](/SectionAssignments/Assignment1)
@@ -26,5 +26,8 @@ Please feel free to browser the code and leave a **star** if you find this helpf
   - [7. Face Pamphlet](/ProgrammingAssignments/7.FacePamphlet)
   
   
-  ## Helpful Source
-  <a href="https://see.stanford.edu/materials/icspmcs106a/ProgrammingMethodologyAllMaterials.zip">DOWNLOAD All Course Materials</a>
+## Helpful Sources
+- <a href="https://www.eclipse.org/downloads/">Download Eclipse</a>
+- <a href="https://see.stanford.edu/materials/icspmcs106a/ProgrammingMethodologyAllMaterials.zip">Download All Course Materials</a>
+- <a href="https://see.stanford.edu/materials/icspmcs106a/28-practice-midterm.pdf">Practice Midterm</a>
+- <a href="https://see.stanford.edu/materials/icspmcs106a/46-practice-final-exam.pdf">Practice Final</a>
