@@ -24,3 +24,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
   - [5. Yahtzee!](/ProgrammingAssignments/5.Yahtzee!)
   - [6. Name Surfer](/ProgrammingAssignments/6.NameSurfer)
   - [7. Face Pamphlet](/ProgrammingAssignments/7.FacePamphlet)
+  
+  
+  ## Helpful Source
+  <a href="https://see.stanford.edu/materials/icspmcs106a/ProgrammingMethodologyAllMaterials.zip">DOWNLOAD All Course Materials</a>
