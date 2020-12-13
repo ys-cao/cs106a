@@ -28,6 +28,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
   
 ## Helpful Sources
 - <a href="https://www.eclipse.org/downloads/">Download Eclipse</a>
+- <a href="https://web.stanford.edu/dept/cs_edu/eclipse/#configure">CS106A Eclipse Instructions</a>
 - <a href="https://see.stanford.edu/materials/icspmcs106a/ProgrammingMethodologyAllMaterials.zip">Download All Course Materials</a>
 - <a href="https://see.stanford.edu/materials/icspmcs106a/28-practice-midterm.pdf">Practice Midterm</a>
 - <a href="https://see.stanford.edu/materials/icspmcs106a/46-practice-final-exam.pdf">Practice Final</a>
