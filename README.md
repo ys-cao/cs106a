@@ -31,5 +31,5 @@ Please feel free to browser the code and leave a **star** if you find this helpf
 - <a href="https://web.stanford.edu/dept/cs_edu/eclipse/#configure">CS106A Eclipse Instructions</a>
 - <a href="https://see.stanford.edu/materials/icspmcs106a/ProgrammingMethodologyAllMaterials.zip">Download All Course Materials</a>
 - <a href="https://see.stanford.edu/materials/icspmcs106a/28-practice-midterm.pdf">Practice Midterm</a>
-- <a href="https://see.stanford.edu/materials/icspmcs106a/46-practice-final-exam.pdf">Practice Final</a>x
-- <a href="http://web.stanford.edu/class/archive/cs/cs106a/cs106a.1146/textbook/karel-the-robot-learns-java.pdf">Karel the Robot Learns Java.</a>
+- <a href="https://see.stanford.edu/materials/icspmcs106a/46-practice-final-exam.pdf">Practice Final</a>
+- <a href="http://web.stanford.edu/class/archive/cs/cs106a/cs106a.1146/textbook/karel-the-robot-learns-java.pdf">Karel the Robot Learns Java</a>
