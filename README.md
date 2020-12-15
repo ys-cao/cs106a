@@ -21,6 +21,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [CollectNewspaperKarel.java](/ProgrammingAssignments/1.Karel/CollectNewspaperKarel.java)
     - [StoneMasonKarel.java](/ProgrammingAssignments/1.Karel/StoneMasonKarel.java)
     - [CheckerboardKarel.java](/ProgrammingAssignments/1.Karel/CheckerboardKarel.java)
+    - [MidpointFindingKarel.java](/ProgrammingAssignments/1.Karel/MidpointFindingKarel.java)
   - [2. Simple Java](/ProgrammingAssignments/2.SimpleJava)
   - [3. Breakout!](/ProgrammingAssignments/3.Breakout!)
   - [4. Hangman](/ProgrammingAssignments/4.Hangman)
