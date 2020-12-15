@@ -1,4 +1,5 @@
-* File: CollectNewspaperKarel.java
+/*
+ * File: CollectNewspaperKarel.java
  * --------------------------------
  * At present, the CollectNewspaperKarel subclass does nothing.
  * Your job in the assignment is to add the necessary code to
@@ -25,12 +26,6 @@ public class CollectNewspaperKarel extends SuperKarel {
 		turnLeft();
 		move();
 	}
-	
-	private void turnRight() {
-		turnLeft();
-		turnLeft();
-		turnLeft();
-	}
 
 	private void returnToStartPoint() {
 		turnAround();
@@ -40,11 +35,6 @@ public class CollectNewspaperKarel extends SuperKarel {
 		turnRight();
 		move();
 		turnRight();
-	}
-	
-	private void turnAround() {
-		turnLeft();
-		turnLeft();
 	}
 
 }
