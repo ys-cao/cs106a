@@ -20,13 +20,14 @@ Please feel free to browser the code and leave a **star** if you find this helpf
   - [1. Karel](/ProgrammingAssignments/1.Karel)
     - [CollectNewspaperKarel.java](/ProgrammingAssignments/1.Karel/CollectNewspaperKarel.java)
     - [StoneMasonKarel.java](/ProgrammingAssignments/1.Karel/StoneMasonKarel.java)
+    - [CheckerboardKarel.java](/ProgrammingAssignments/1.Karel/CheckerboardKarel.java)
   - [2. Simple Java](/ProgrammingAssignments/2.SimpleJava)
   - [3. Breakout!](/ProgrammingAssignments/3.Breakout!)
   - [4. Hangman](/ProgrammingAssignments/4.Hangman)
   - [5. Yahtzee!](/ProgrammingAssignments/5.Yahtzee!)
   - [6. Name Surfer](/ProgrammingAssignments/6.NameSurfer)
   - [7. Face Pamphlet](/ProgrammingAssignments/7.FacePamphlet)
-  
+   
   
 ## Helpful Sources
 - <a href="https://www.eclipse.org/downloads/">Download Eclipse</a>
