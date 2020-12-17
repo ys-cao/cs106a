@@ -7,6 +7,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
 
 - [Section Assignments](/SectionAssignments)
   - [Assignment 1](/SectionAssignments/Assignment1)
+    - [Section1_KarelTheRobot.java](/SectionAssignments/Assignment1/Section1_KarelTheRobot.java)
   - [Assignment 2](/SectionAssignments/Assignment2)
   - [Assignment 3](/SectionAssignments/Assignment3)
   - [Assignment 4](/SectionAssignments/Assignment4)
