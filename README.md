@@ -29,7 +29,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [ProgramHierarchy.java](/ProgrammingAssignments/2.SimpleJava/ProgramHierarchy.java)
     - [PythagoreanTheorem.java](/ProgrammingAssignments/2.SimpleJava/PythagoreanTheorem.java)
     - [FindRange.java](/ProgrammingAssignments/2.SimpleJava/FindRange.java)
-    - [ProgramHierarchy.java](/ProgrammingAssignments/2.SimpleJava/ProgramHierarchy.java)
+    - [Hailstone.java](/ProgrammingAssignments/2.SimpleJava/Hailstone.java)
   - [3. Breakout!](/ProgrammingAssignments/3.Breakout!)
   - [4. Hangman](/ProgrammingAssignments/4.Hangman)
   - [5. Yahtzee!](/ProgrammingAssignments/5.Yahtzee!)
