@@ -25,6 +25,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [MidpointFindingKarel.java](/ProgrammingAssignments/1.Karel/MidpointFindingKarel.java)
   - [2. Simple Java](/ProgrammingAssignments/2.SimpleJava)
     - [Pyramid.java](/ProgrammingAssignments/2.SimpleJava/Pyramid.java)
+    - [Target.java](/ProgrammingAssignments/2.SimpleJava/Target.java)
   - [3. Breakout!](/ProgrammingAssignments/3.Breakout!)
   - [4. Hangman](/ProgrammingAssignments/4.Hangman)
   - [5. Yahtzee!](/ProgrammingAssignments/5.Yahtzee!)
