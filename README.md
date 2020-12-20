@@ -10,7 +10,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [Section1_KarelTheRobot.java](/SectionAssignments/Assignment1/Section1_KarelTheRobot.java)
   - [Assignment 2](/SectionAssignments/Assignment2)
     - [Section2_FibonacciSequence.java](/SectionAssignments/Assignment2/FibonacciSequence.java)
-    - [Section2_FibonacciSequence.java](/SectionAssignments/Assignment2/FibonacciSequence.java)
+    - [Section2_RobotFace.java](/SectionAssignments/Assignment2/RobotFace.java)
   - [Assignment 3](/SectionAssignments/Assignment3)
   - [Assignment 4](/SectionAssignments/Assignment4)
   - [Assignment 5](/SectionAssignments/Assignment5)
