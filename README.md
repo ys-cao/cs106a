@@ -13,6 +13,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [Section2_RobotFace.java](/SectionAssignments/Assignment2/RobotFace.java)
   - [Assignment 3](/SectionAssignments/Assignment3)
     - [Section3_TrueOrFalseQuestions](/SectionAssignments/Assignment3/TrueOrFalseQuestions)
+    - [Section3_TracingMethodExecution](/SectionAssignments/Assignment3/TracingMethodExecution)
   - [Assignment 4](/SectionAssignments/Assignment4)
   - [Assignment 5](/SectionAssignments/Assignment5)
   - [Assignment 6](/SectionAssignments/Assignment6)
