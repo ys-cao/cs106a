@@ -15,6 +15,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [Section3_TrueOrFalseQuestions](/SectionAssignments/Assignment3/TrueOrFalseQuestions)
     - [Section3_TracingMethodExecution](/SectionAssignments/Assignment3/TracingMethodExecution)
     - [Section3_RandomCircles.java](/SectionAssignments/Assignment3/RandomCircles.java)
+    - [Section3_RubberBanding.java](/SectionAssignments/Assignment3/RubberBanding.java)
   - [Assignment 4](/SectionAssignments/Assignment4)
   - [Assignment 5](/SectionAssignments/Assignment5)
   - [Assignment 6](/SectionAssignments/Assignment6)
