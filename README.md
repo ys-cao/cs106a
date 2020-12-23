@@ -37,6 +37,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [FindRange.java](/ProgrammingAssignments/2.SimpleJava/FindRange.java)
     - [Hailstone.java](/ProgrammingAssignments/2.SimpleJava/Hailstone.java)
   - [3. Breakout!](/ProgrammingAssignments/3.Breakout!)
+    - [Breakout.java](/ProgrammingAssignments/3.Breakout!/Breakout.java)
   - [4. Hangman](/ProgrammingAssignments/4.Hangman)
   - [5. Yahtzee!](/ProgrammingAssignments/5.Yahtzee!)
   - [6. Name Surfer](/ProgrammingAssignments/6.NameSurfer)
