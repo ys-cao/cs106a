@@ -20,7 +20,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [Section4_addCommasToNumericString](/SectionAssignments/Assignment4/addCommasToNumericString)
     - [Section4_removeAllOccurrences](/SectionAssignments/Assignment4/removeAllOccurrences)
     - [Section4_addCommasToNumericString](/SectionAssignments/Assignment4/addCommasToNumericString)
-    - [Section4_addCommasToNumericString](/SectionAssignments/Assignment4/addCommasToNumericString)
+    - [Section4_Mystery](/SectionAssignments/Assignment4/mystery)
   - [Assignment 5](/SectionAssignments/Assignment5)
   - [Assignment 6](/SectionAssignments/Assignment6)
   - [Assignment 7](/SectionAssignments/Assignment7)
