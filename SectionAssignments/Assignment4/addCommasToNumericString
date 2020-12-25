@@ -1,0 +1,16 @@
+/**
+ * This is method to add commas to the numeric strings.
+ */
+ 
+private String addCommasToNumericString(String digits) {
+    String result = "";
+    int counter = 0;
+    for (int i = digits.length() - 1; i >= 0; i--) {
+        result = digits.charAt(i) + result;
+        counter ++;
+        if ((counter % 3) == 0 && i != 0) {
+            result = "," + result;
+        }
+    }
+    return result;
+}
