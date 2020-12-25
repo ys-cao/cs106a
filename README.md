@@ -18,7 +18,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [Section3_RubberBanding.java](/SectionAssignments/Assignment3/RubberBanding.java)
   - [Assignment 4](/SectionAssignments/Assignment4)
     - [Section4_addCommasToNumericString](/SectionAssignments/Assignment4/addCommasToNumericString)
-    - [Section4_addCommasToNumericString](/SectionAssignments/Assignment4/addCommasToNumericString)
+    - [Section4_removeAllOccurrences](/SectionAssignments/Assignment4/removeAllOccurrences)
     - [Section4_addCommasToNumericString](/SectionAssignments/Assignment4/addCommasToNumericString)
     - [Section4_addCommasToNumericString](/SectionAssignments/Assignment4/addCommasToNumericString)
   - [Assignment 5](/SectionAssignments/Assignment5)
