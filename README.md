@@ -19,7 +19,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
   - [Assignment 4](/SectionAssignments/Assignment4)
     - [Section4_addCommasToNumericString](/SectionAssignments/Assignment4/addCommasToNumericString)
     - [Section4_removeAllOccurrences](/SectionAssignments/Assignment4/removeAllOccurrences)
-    - [Section4_addCommasToNumericString](/SectionAssignments/Assignment4/addCommasToNumericString)
+    - [Section4_Heap.StackDiagrams](/SectionAssignments/Assignment4/Heap.StackDiagrams)
     - [Section4_Mystery](/SectionAssignments/Assignment4/mystery)
   - [Assignment 5](/SectionAssignments/Assignment5)
   - [Assignment 6](/SectionAssignments/Assignment6)
