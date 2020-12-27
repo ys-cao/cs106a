@@ -22,7 +22,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [Section4_Heap.StackDiagrams](/SectionAssignments/Assignment4/Heap.StackDiagrams)
     - [Section4_Mystery](/SectionAssignments/Assignment4/mystery)
   - [Assignment 5](/SectionAssignments/Assignment5)
-    - [Section5_wordCount](/SectionAssignments/Assignment5/wordCount)
+    - [Section5_WordCount](/SectionAssignments/Assignment5/wordCount)
     - [Section5_wordCount](/SectionAssignments/Assignment5/wordCount)
     - [Section5_wordCount](/SectionAssignments/Assignment5/wordCount)
   - [Assignment 6](/SectionAssignments/Assignment6)
