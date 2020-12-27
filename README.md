@@ -24,7 +24,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
   - [Assignment 5](/SectionAssignments/Assignment5)
     - [Section5_WordCount.java](/SectionAssignments/Assignment5/WordCount.java)
     - [Section5_Histograms.java](/SectionAssignments/Assignment5/Histograms.java)
-    - [Section5_wordCount](/SectionAssignments/Assignment5/wordCount)
+    - [Section5_UniqueNames.java](/SectionAssignments/Assignment5/UniqueNames.java)
   - [Assignment 6](/SectionAssignments/Assignment6)
   - [Assignment 7](/SectionAssignments/Assignment7)
   - [Assignment 8](/SectionAssignments/Assignment8)
