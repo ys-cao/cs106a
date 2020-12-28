@@ -26,6 +26,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [Section5_Histograms.java](/SectionAssignments/Assignment5/Histograms.java)
     - [Section5_UniqueNames.java](/SectionAssignments/Assignment5/UniqueNames.java)
   - [Assignment 6](/SectionAssignments/Assignment6)
+    - [Section6_FlipHorizontal.java](/SectionAssignments/Assignment6/FlipHorizontal.java)
   - [Assignment 7](/SectionAssignments/Assignment7)
   - [Assignment 8](/SectionAssignments/Assignment8)
   - [Assignment 9](/SectionAssignments/Assignment9)
