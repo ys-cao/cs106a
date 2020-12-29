@@ -29,6 +29,7 @@ Please feel free to browser the code and leave a **star** if you find this helpf
     - [Section6_FlipHorizontal.java](/SectionAssignments/Assignment6/FlipHorizontal.java)
     - [Section6_NameCounts.java](/SectionAssignments/Assignment6/NameCounts.java)
   - [Assignment 7](/SectionAssignments/Assignment7)
+    - [Section7_Interactor.java](/SectionAssignments/Assignment7/Interactor.java)
   - [Assignment 8](/SectionAssignments/Assignment8)
   - [Assignment 9](/SectionAssignments/Assignment9)
   
